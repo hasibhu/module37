@@ -19,12 +19,12 @@ const student = {
     age : 34,
     course : ['biology', 'neuroscience', 'psychology'] 
 }
-// 1
-const myVariable = 'age'
-console.log(student.age);
+// // 1
+// const myVariable = 'age'
+// console.log(student.age);
 
-console.log(student['age']);
-console.log(student[myVariable]);
+// console.log(student['age']);
+// console.log(student[myVariable]);
 
 
 
